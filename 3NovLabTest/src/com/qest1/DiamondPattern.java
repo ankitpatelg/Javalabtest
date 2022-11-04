@@ -1,5 +1,5 @@
 /* Question 1: Print Diamond Pattern
- @Author: Pranjal Rajeev
+ @Author: ankit patel
  @Date: 3 Nov 2022
  */
 
